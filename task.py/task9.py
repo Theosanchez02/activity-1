@@ -1,0 +1,1 @@
+print("cyrus like a dog mwua muwa")
